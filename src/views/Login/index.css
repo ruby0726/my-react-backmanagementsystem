@@ -1,0 +1,18 @@
+
+.login-form{
+  width: 300px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: rgba(0,0,0,0.5);
+  padding: 30px !important;
+}
+#normal_login{
+  box-sizing: border-box !important;
+  padding: 30px !important;
+}
+.login-form-button {
+  width: 100%;
+  align-items: center;
+}
